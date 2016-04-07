@@ -1,0 +1,12 @@
+[31m>> [39mMocha exploded!
+[31m>> [39mSyntaxError: Unexpected token )[31m
+>> [39m    at exports.runInThisContext (vm.js:53:16)[31m
+>> [39m    at Module._compile (module.js:373:25)[31m
+>> [39m    at Object.Module._extensions..js (module.js:416:10)[31m
+>> [39m    at Module.load (module.js:343:32)[31m
+>> [39m    at Function.Module._load (module.js:300:12)[31m
+>> [39m    at Module.require (module.js:353:17)[31m
+>> [39m    at require (internal/module.js:12:17)[31m
+>> [39m    at E:\进击的NodeJs\NodeMongo\node_modules\mocha\lib\mocha.js:219:27[31m
+>> [39m    at Array.forEach (native)[31m
+>> [39m    at Mocha.loadFiles (E:\进击的NodeJs\NodeMongo\node_modules\mocha\lib\mocha.js:216:14)
